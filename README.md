@@ -1,4 +1,5 @@
 Viral Scope
+
 Overview
 Viral Scope is a desktop application designed for managing patient information and facilitating sample collection. The application is built using customtkinter and tkinter for the graphical user interface, and PIL for image processing. The project aims to streamline the process of registering patients, saving their information, and viewing their details in a user-friendly interface.
 
